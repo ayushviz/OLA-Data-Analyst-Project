@@ -1,4 +1,4 @@
-# OLA-Data-Analyst-Project
+# OLA_Data_Analyst_Project
 
 1. Ride Volume Over Time: A time-series chart showing the number of rides per day/week.
 2. Booking Status Breakdown: A pie or doughnut chart displaying the proportion of different
